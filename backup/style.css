@@ -1,4 +1,8 @@
+/*
+ * Globals
+ */
 
+/* Links */
 a,
 a:focus,
 a:hover {
@@ -9,7 +13,7 @@ a:hover {
 .btn-default,
 .btn-default:hover,
 .btn-default:focus {
-  color: #333
+  color: #333;
   text-shadow: none; /* Prevent inheritence from `body` */
   background-color: #fff;
   border: 1px solid #fff;
@@ -23,11 +27,7 @@ a:hover {
 html,
 body {
   height: 100%;
-<<<<<<< HEAD
-  background-color: #303847
-=======
   background-color: #DB0C41
->>>>>>> 798643f4f0b06f209f2d00268af4715505a99813
 
 
   
@@ -166,16 +166,4 @@ body {
   .cover-container {
     width: 700px;
   }
-<<<<<<< HEAD
 }
-
-
-.aboutus {
-
-background-color:#ffffff;
-
-}
-	
-=======
-}
->>>>>>> 798643f4f0b06f209f2d00268af4715505a99813
