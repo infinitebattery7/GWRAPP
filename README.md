@@ -1,1 +1,1 @@
-A website for the Global Writing Reading and Pen Pals project.
+A website for the Global Writing Reading and Pen Pals project. In progress. 
